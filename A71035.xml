@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VI. severall victories obtained by Major-Generall Browne, Lievtenant-Generall Cromwell, and Col. Fines, against the Kings forces neere Oxford on Thursday, Friday, Saturday, and Sunday last: with severall lists of the names of the chiefe prisoners of the Kings party which were taken: viz. 6. Colonells and majors. 9. Captaines. 11. Lievtenants. 14. Colours and ensignes. 53. other officers. 540. killed and taken. 600. and odd armes. 590. Horse. 3. Barrells of powder, besides other ammunition. With all the particulars, and manner of each fight, and the most materiall collections of the letters which came from Lievtenant-Generall Cromwell, Major-Generall Browne, and the rest that were sent from the army. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71035</idno>
+            <idno type="STC">Wing S3921A</idno>
+            <idno type="STC">Wing S2814B</idno>
+            <idno type="STC">ESTC R219176</idno>
+            <idno type="EEBO-CITATION">99830689</idno>
+            <idno type="PROQUEST">99830689</idno>
+            <idno type="VID">35142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:8; 1875:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VI. severall victories obtained by Major-Generall Browne, Lievtenant-Generall Cromwell, and Col. Fines, against the Kings forces neere Oxford on Thursday, Friday, Saturday, and Sunday last: with severall lists of the names of the chiefe prisoners of the Kings party which were taken: viz. 6. Colonells and majors. 9. Captaines. 11. Lievtenants. 14. Colours and ensignes. 53. other officers. 540. killed and taken. 600. and odd armes. 590. Horse. 3. Barrells of powder, besides other ammunition. With all the particulars, and manner of each fight, and the most materiall collections of the letters which came from Lievtenant-Generall Cromwell, Major-Generall Browne, and the rest that were sent from the army. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "6. .. officers." are joined by a right brace; the words "540. .. ammunition." are joined by a left brace.</note>
+                  <note>Caption title on p. [1]: Six severall victories obtained against the Kings forces neere Oxford, by severall fights, on Thursday, Friday, Saturday, and Sunday last.</note>
+                  <note>Identified as Wing S3921A on reel 1875, and as Wing S2814B on reel 2059 of UMI microfilm set, Early English books, 1641-1700.</note>
+                  <note>Copies have print show-through. Wing S2814B (British Library copy) is torn at foot slightly affecting text.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35142:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <p>VI. SEVERALL VICTORIES OBTAINED By Major-Generall <hi>Browne,</hi> Lievtenant-Generall <hi>Cromwell,</hi> and Col. <hi>Fines,</hi>
+            </p>
+            <p>AGAINST The Kings Forces neere Oxford, on Thurſday, Friday, Saturday, and Sunday laſt: with ſeverall Liſts of the names of the chiefe priſoners of the Kings party which were taken: <hi>viz.</hi>
+            </p>
+            <list>
+               <item>6. Colonells and Majors.</item>
+               <item>9 Captaines.</item>
+               <item>11. Lievtenants.</item>
+               <item>14. Colours and Enſignes.</item>
+               <item>53. other Officers.</item>
+               <item>540. killed and taken.</item>
+               <item>600. and odd Armes.</item>
+               <item>590 Horſe.</item>
+               <item>3. Barrells of powder, be<g ref="char:EOLhyphen"/>ſides other Ammunition.</item>
+            </list>
+            <p>
+               <hi>WITH</hi> All the particulars, and manner of each fight, and the moſt materiall Collections of the Letters which c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me from Lievte<g ref="char:EOLhyphen"/>nant-Generall <hi>Cromwell,</hi> Major-Generall <hi>Browne,</hi> and the reſt that were ſent from the Army.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Auſtin.</hi> 1645.</p>
+            <pb facs="tcp:35142:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:35142:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35142:3"/>
+            <!-- PDF PAGE 37 -->
+            <pb n="1" facs="tcp:35142:3"/>
+            <!-- PDF PAGE 37 -->
+            <head>Six ſeverall victories obtained againſt the Kings Forces neere Oxford, by ſeverall Fights, on Thurſday, Friday, Saturday, and Sunday laſt.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Tueſday the 22. of Aprill, 1645. there were quartered between two and three thouſand of Sir <hi>Thomas Fairfaxes</hi> horſe about Oxford, to ſtop the Kings Artillery and Carriages from paſſing out, which were ready in Oxford (with a convoy) to march (as intelligence was given) towards <hi>Rupert.</hi> And Liev<g ref="char:EOLhyphen"/>tenant-Generall <hi>Cromwell</hi> having intelligence that they inten<g ref="char:EOLhyphen"/>ded to paſſe through Shotoverwood, drew towards Wood<g ref="char:EOLhyphen"/>ſtock and ſo thereabouts towards Iſlip, to be ready to attend their motion, in caſe they came that way.</p>
+            <p>On Wedneſday the 23. of April, Lievtenant-Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> had intelligence of about 100. horſe and foot that were marching towards him, and that evenning ſome of our men ſhewed themſelves in a ſmal partie, which drew the enemy near, and command was given by Lievtenant-Generall <hi>Cromwell,</hi> that all our Forces ſhould be in a readineſſe, and upon their watch all the night for feare of the enemy, which was carefully done, Lievtenant-Generall <hi>Cromwell</hi> himſelfe being in his own
+<pb n="2" facs="tcp:35142:4"/>
+               <!-- PDF PAGE 38 -->perſon (to incourage them) all the while with them, for there came intelligence that the enemy intended to watch for an op<g ref="char:EOLhyphen"/>portunitie to take our forces at an advantage, and then ſuddenly to fall upon them, of which they much preſumed: but found our men too vigilant for them.</p>
+            <p>On Thurſday the 24. of Aprill, Lievtenant-Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> fell upon them neare Iſlip (where were a Brigade of above 1000. under the command of the Earl of <hi>Northampton</hi>) conſi<g ref="char:EOLhyphen"/>ſting of his own Regiment, and the Lord <hi>Wilmots</hi> Regiment, beat them at their own game, fought with them with much gal<g ref="char:EOLhyphen"/>lantry (though the beſt horſe the King hath.) And at the ſecond charge entred their whole Body, diſordered them, which was followed with ſo much valour that in ſhort time they totally routed them, and purſued them above 3. miles, killed and took 200. and odd, &amp; about 60. were drowned by making ſuch ſpeed to get over a water. We took alſo 400 Horſe, and 3. Colours, about 20. Officers, and divers Armes, and wounded many of their men beſides, who fled into Oxford, and ſome into Blech<g ref="char:EOLhyphen"/>ington-houſe. But Lievtenant-Generall <hi>Cromwell</hi> ſent away his priſoners and marched againſt Blechington, and ſummoned Colonell <hi>VVindebank</hi> to ſurrender that Garriſon, which after ſome diſpute about it (being ſtrong ſurrounded) it was ſurren<g ref="char:EOLhyphen"/>dered to Lievtenant-Generall <hi>Cromwell</hi> upon condition for the ſouldiers to march away with their lives; Lievtenant-Generall <hi>Cromwell</hi> took there 250. Muſquets, 70. Horſe, 100. Pikes, and other Armes, 3. barrells of Gunpowder, with Match and other Ammunition.</p>
+            <p>On Friday the 25. of April, our Horſe were divided into ſe<g ref="char:EOLhyphen"/>verall Squadrons, both for conveniency of quarter and alſo to attend the motions of the enemy, and Colonell <hi>Iohn Fines</hi> quar<g ref="char:EOLhyphen"/>tered towards Wilcot, Lievtenant-Generall <hi>Cromwell</hi> with his own Regiment drawing betweene him and Oxford, and this day ſome ſtraglers of the enemies were taken priſoners.</p>
+            <pb n="3" facs="tcp:35142:4"/>
+            <!-- PDF PAGE 38 -->
+            <p>On Saturday the 26 of April, Major-Generall <hi>Browne</hi> ha<g ref="char:EOLhyphen"/>ving notice that Sir <hi>Thomas Fairfaxes</hi> Horſe were ſo neere him, drew a partie out of Abingdon to march that way, to be in a readineſſe (if occaſion were) who marching towards Long<g ref="char:EOLhyphen"/>worth, had notice of a partie of the enemie to be about Buck<g ref="char:EOLhyphen"/>land, ſo they marched that way, but the enemie was gone to<g ref="char:EOLhyphen"/>ward Farringdon; but Major-Generall <hi>Brownes</hi> Forces fol<g ref="char:EOLhyphen"/>lowed them ſo cloſe, that they fell upon them, and took a Cap<g ref="char:EOLhyphen"/>taine, and 3 other Officers, and 10 Priſoners, with which they intended preſently to returne towards Abingdon; but having intelligence of another partie of the enemies that were coming from the Deviſes, intending (as was ſuppoſed) for Oxford, Scouts were ſent to find them out, and having diſcovered them, Major-Generall <hi>Brownes</hi> Forces marched unto them, fell upon them, and took a Colonell, a Sargeant-Major, 3 Captaine, 3 Lievtenants, and divers other Priſoners; beſides Horſe, and Armes, and carried them to Abbingdon.</p>
+            <p>The ſame evening Colonell <hi>Fines</hi> (with his Regiment) ha<g ref="char:EOLhyphen"/>ving intelligence of a partie of the enemies that were come neere Witney, drew towards them, and with much gallantrie fell upon them, and took from them 120 Horſe, 3 Colours, 40 Priſoners, and 50 Armes.</p>
+            <p>The ſame night newes came into Abingdon, that that day, <hi>viz.</hi> Saturday the 26 of April, Colonell <hi>Windebank</hi> was brought before a Councell of War in Oxford, about the furrendring of Bletchington-Houſe to Lievtenant-Generall <hi>Cromwell,</hi> and that divers great perſons in Oxford were much inraged againſt him, taking it very ill, that a Garriſon of ſo great conſequence to them (as they value it) ſhould be ſo ſoon loſt; in ſo much, that it is beleeved Col. <hi>Windebank</hi> will be put to death for it.</p>
+            <p>The ſame night Lievtenant-Generall <hi>Cromwell</hi> had intelli<g ref="char:EOLhyphen"/>gence, that a partie of the enemies Foot (under the comm<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Colonell Sir <hi>Henry Vaughan,</hi> formerly a Member <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:35142:5"/>
+               <!-- PDF PAGE 39 -->Houſe of Commons; but ſince one of the Juncto,) were about Witney towards Farringdon; wherefore hoe drew that way, intending to fall upon them the next morning, if hee could reach them.</p>
+            <p>On Sunday the 27 of April, Lievtenant-Generall <hi>Cromwell</hi> ſent out Scouts to diſcover the motions of Colonell <hi>Vaughan,</hi> and receiving advertiſement where he quartered neer Bampton-Buſh, hee marched on that way, parting his Body into ſeverall Squadrons, and with valiant courage marched up cloſe to them; the enemies having little courage to fight, (ſo terrible is the ve<g ref="char:EOLhyphen"/>rie name of <hi>Cromwell</hi> to them) begged quarter for their lives, which was granted them; and ſo Lievtenant-Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> took there Colonell Sir <hi>Henry Vaughan,</hi> their Commander in chiefe, 2 Lievtenant-Colonels, 1 Sargeant-Major, 5 Cap<g ref="char:EOLhyphen"/>taines, 8 Lievtenants, 8 Enſignes, 1 Doctor, who was Chap<g ref="char:EOLhyphen"/>laine to them, his name is <hi>Dunſe;</hi> 20 Sargeants, and other in<g ref="char:EOLhyphen"/>feriour Officers; 230 Priſoners, and about 200 Armes; ſome powder, match, and Ammunition, with ſuch proviſions as they had. The reſt of the day was ſpent in the publike worſhip of God; and thanks was given to the Lord (thorowout thoſe our Armies, which were within hearing of the great victories:) for the ſame.</p>
+            <p>On Munday the 28 of April, Lievtenant-Generall <hi>Cromwell</hi> marched towards Abingdon with his Priſoners, and about one of the clock being come within three miles of Abingdon, and ſome congratulations with Major-Generall <hi>Browne;</hi> he ſent his Priſoners to Abingdon, and a Convoy with them, himſelfe marching to Yeilford, having a further deſigne, whereof (if God permit) he hopes to give a good account in few dayes, for he is full of action, and performes all with much gallantrie, even forgetting himſelfe and his naturall reſt, to do the Kingdome <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hfull and opportune ſervice.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo indeed all his Souldiers, with one reſolution, doe
+<pb n="5" facs="tcp:35142:5"/>
+               <!-- PDF PAGE 39 -->equally expreſſe ſo much valour for the good and ſafetie of the Kingdome, as can be expected.</p>
+            <p>Thus have I in briefe given you the ſum of each dayes pro<g ref="char:EOLhyphen"/>ceedings of thoſe ſeverall victories, which God hath been plea<g ref="char:EOLhyphen"/>ſed to give to Sir <hi>Thomas Fairfaxes</hi> Forces, and Major-Generall <hi>Brownes</hi> on Thurſday, Friday, Saturday, and Sunday laſt.</p>
+            <p>And for your further ſatisfaction, here followeth a perfect Liſt of the particulars of each victorie.</p>
+            <list>
+               <head>A Liſt of the particulars of each victorie, as followeth:</head>
+               <item>I. <hi>A Liſt of Lievtenant Generall</hi> Cromwells <hi>Victory neere Iſlip, the</hi> 24. <hi>of Aprill.</hi> 1645.
+<list>
+                     <item>200. and odd kild and taken.</item>
+                     <item>60. Drowned.</item>
+                     <item>400. Horſe taken.</item>
+                     <item>3. Colours taken.</item>
+                     <item>20. Officers kild and taken.</item>
+                     <item>Their whole Body routed.</item>
+                  </list>
+               </item>
+               <item>II. <hi>A Liſt of what was taken ut Bletchington by Lievtenant-Generall</hi> Cromwell, <hi>the</hi> 24. <hi>of Aprill.</hi> 1645.
+<list>
+                     <item>250. Muskets.</item>
+                     <item>70. Horſe.</item>
+                     <item>3. Barrells of powder.</item>
+                     <item>100. Pikes, with other armes.</item>
+                  </list>
+               </item>
+               <item>III. <hi>A Liſt of what was taken by Major Generall</hi> Brown <hi>(neere Farringdon) the</hi> 26. <hi>of Aprill.</hi> 1645.
+<list>
+                     <item>1. Captaine.</item>
+                     <item>3. Other Officers.</item>
+                     <item>18. Priſoners.</item>
+                     <item>14. Armes.</item>
+                  </list>
+               </item>
+               <pb n="6" facs="tcp:35142:6"/>
+               <!-- PDF PAGE 40 -->
+               <item>IV. <hi>A Liſt of what Major Generall</hi> Browne <hi>tooke of a party coming from the Devizes towards Oxford, April</hi> 26. 1645.
+<list>
+                     <item>Colonell Conqueſt.</item>
+                     <item>Serjeant-Major Bamfield.</item>
+                     <item>3. Captains.</item>
+                     <item>3. Lievtenants, and other pri<g ref="char:EOLhyphen"/>ſoners.</item>
+                  </list>
+               </item>
+               <item>V. <hi>A Liſt of what was taken by Colonell</hi> Fines <hi>at Witney, the</hi> 26. <hi>of Aprill.</hi> 1645.
+<list>
+                     <item>3. Colours.</item>
+                     <item>10. Officers.</item>
+                     <item>120. Horſe.</item>
+                     <item>40. Priſoners, and 50. Armes.</item>
+                  </list>
+               </item>
+               <item>VI. <hi>A Liſt of what was taken by Lievtenant-Generall</hi> Cromwell, <hi>at Bampton-Buſh, the</hi> 27. <hi>of Aprill.</hi> 1645.
+<list>
+                     <item>Colonell Sir Henry Vaughan, one of the Junto, and Com<g ref="char:EOLhyphen"/>mander in chief.</item>
+                     <item>Lievtenant-Colonell Lee.</item>
+                     <item>Lievtenant-Colonel Littleton</item>
+                     <item>Serjeant-Major Lee.</item>
+                     <item>Captain Powell.</item>
+                     <item>Captain Webſter.</item>
+                     <item>Captain Lee.</item>
+                     <item>Captain Lewis.</item>
+                     <item>Captain Liſter.</item>
+                     <item>8. Lievtenants.</item>
+                     <item>8. Enſignes.</item>
+                     <item>Doctor Dunſe, Chaplain to Col. Vaughan.</item>
+                     <item>20. Serjeants, and other infe<g ref="char:EOLhyphen"/>riour Officers.</item>
+                     <item>230. Priſoners.</item>
+                     <item>200. Armes, with ſome bar<g ref="char:EOLhyphen"/>rells of powder, match, and other proviſions.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35142:6"/>
+            <!-- PDF PAGE 40 -->
+         </div>
+      </body>
+   </text>
+</TEI>
